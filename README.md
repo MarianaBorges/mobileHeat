@@ -1,6 +1,10 @@
 # mobileHeat
 App mobile de envio de mensagens desenvolvido durante a NLW heat 
 
+<p>
+  <img src="assets/screen-app-nlwheat.png" alt="Image" width="240" height="400" style="display: block; margin: 0 auto" />
+</p>
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
