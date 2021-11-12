@@ -1,8 +1,6 @@
 # mobileHeat
 App mobile de envio de mensagens desenvolvido durante a NLW heat 
 
-![Screenshot](assets/screen-app-nlwheat.png)
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
